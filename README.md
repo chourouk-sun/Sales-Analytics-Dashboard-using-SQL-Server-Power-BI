@@ -67,6 +67,7 @@ Recommendations:
 - Monitor products with high revenue but low profit margins
 
 # Dashboard Preview
+![Dashboard](images/Sales_db.png)
 
 
 
