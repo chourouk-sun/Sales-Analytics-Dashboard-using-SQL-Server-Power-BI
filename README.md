@@ -1,0 +1,2 @@
+# Sales-Analytics-Dashboard-using-SQL-Server-Power-BI
+This project analyzes retail sales performance using SQL Server and Power BI.  The goal is to identify: - Revenue drivers - Most profitable products - Regional sales performance - Impact of discounts on profitability - Products generating high sales but low profit  The dashboard was built using real business KPIs and interactive visualizations.
